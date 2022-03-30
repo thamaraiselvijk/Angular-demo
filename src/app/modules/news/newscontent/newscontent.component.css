@@ -1,0 +1,40 @@
+#content {
+    width: 100%;
+    margin-right: -50%;
+    height: 100%;
+    padding-top: 30px;
+    display: flex;
+    
+    background-image: url("../../../../assets/images/back.png");
+    background-repeat: no-repeat;
+}
+.l1{
+    width: 42%;
+   
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.h1{
+    color: white;
+    font-size: 60px;
+
+}
+.h2{
+    color: white;
+    font-size: 35px;
+}
+.h5{
+    color: white;
+    line-height: 40px;
+    
+}
+.bu2{
+    background-color:#4FD1C5;
+    color: white;
+    padding-right: 30px;
+
+}
+.bu2:hover{
+    background-color: white;
+    color:#4FD1C5;
+}

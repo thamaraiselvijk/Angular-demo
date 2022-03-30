@@ -1,0 +1,20 @@
+
+
+/* 4FD1C5 */
+
+.bu2{
+    background-color:#4FD1C5;
+    color: white;
+    margin-right: 20px;
+
+}
+.bu2:hover{
+    background-color: teal;
+}
+.bu1{
+    color:black;
+    margin-right: 30px;
+}
+.bu1:hover{
+    background-color:lightslategray;
+}
